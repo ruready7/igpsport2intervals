@@ -1,7 +1,14 @@
 {
-  "last_sync_time": "2026-10-18T00:00:00Z",
-  "last_sync_timestamp": 1792281600.0,
+  "last_sync_time": "2026-10-24T00:00:00Z",
+  "last_sync_timestamp": 1792800000.0,
   "synced_activities": [
+    {
+      "rideId": 96922000,
+      "title": "야외 사이클링",
+      "startTime": "2026.10.24",
+      "distance": 0.0,
+      "syncedAt": "2026-10-24T02:52:38.495385+00:00"
+    },
     {
       "rideId": 96467261,
       "title": "야외 사이클링",
